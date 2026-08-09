@@ -4,7 +4,7 @@ class Student{
     private int marks;
     private String Grade;
     
-    public Alpha(String name, int rollno, int marks, String grade) 
+    public Student(String name, int rollno, int marks, String grade) 
     {
         this.Name = name;
         this.rollno = rollno;
