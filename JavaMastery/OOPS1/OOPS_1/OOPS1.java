@@ -41,8 +41,8 @@ public class OOPS1 {
 
     public static void main(String[] args) {
         System.out.println("OOPS Lesson 1 - Constructor, Getter, Setter and ToString() Implementation");
-        Alpha a = new Alpha("Rais", 30, 90, "A");
-        System.out.println(a);
+        Student s1 = new Student("Rais", 30, 90, "A");
+        System.out.println(s1);
         
     }
 }
