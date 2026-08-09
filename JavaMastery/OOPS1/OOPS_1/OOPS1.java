@@ -30,7 +30,7 @@ class Student{
 
     @Override
     public String toString() {
-        return "Alpha [Name=" + Name + ", rollno=" + rollno + ", marks=" + marks + ", Grade=" + Grade + "]";
+        return "Student [Name=" + Name + ", rollno=" + rollno + ", marks=" + marks + ", Grade=" + Grade + "]";
     }
 
 
