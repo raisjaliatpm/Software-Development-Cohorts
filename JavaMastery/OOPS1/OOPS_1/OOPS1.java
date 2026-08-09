@@ -1,4 +1,4 @@
-class Alpha{
+class Student{
     private String Name;
     private int rollno;
     private int marks;
